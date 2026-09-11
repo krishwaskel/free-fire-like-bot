@@ -1,0 +1,4 @@
+node_modules/
+.env
+rate_limit.db
+.DS_Store
